@@ -3,6 +3,6 @@ package mypack;
 public class helloworld {
     public static void main(String args[])
     {
-        System.out.println("git push success");
+        System.out.println("git push success test");
     }
 }
